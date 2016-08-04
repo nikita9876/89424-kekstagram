@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александр Захаров](https://up.htmlacademy.ru/javascript/6/user/89424).
-* Наcставник: `Неизвестно`.
+* Наcтавник: `Неизвестно`.
 
 ---
 
